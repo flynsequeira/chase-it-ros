@@ -7,3 +7,5 @@
 subdirs(gtest)
 subdirs(my_robot)
 subdirs(simple_arm)
+subdirs(ball_chaser)
+subdirs(drive_bot)
