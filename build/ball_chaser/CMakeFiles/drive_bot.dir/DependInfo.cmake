@@ -20,7 +20,6 @@ set(CMAKE_CXX_TARGET_INCLUDE_PATH
   "/home/workspace/catkin_ws/devel/include"
   "/opt/ros/kinetic/include"
   "/opt/ros/kinetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp"
-  "/home/workspace/catkin_ws/src/ball_chaser/include"
   )
 
 # Targets to which this target links.

@@ -155,7 +155,7 @@ add_executable(drive_bot src/drive_bot.cpp)
 target_link_libraries(drive_bot
 	${catkin_LIBRARIES}
 )
-add_dependencies(drive_bot ball_chaser_generate_message_cpp)
+add_dependencies(drive_bot ball_chaser_generate_messages_cpp)
 
 
 #############
